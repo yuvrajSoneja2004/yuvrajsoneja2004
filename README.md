@@ -1,7 +1,7 @@
-<p align="center">
-<img  src="https://i.ibb.co/jRCt8L5/github-profile-readme-banner.png" alt="profile_pic"/>
-</p>
 <h1 align="center">Hi there!👋 I'm Yuvraj Soneja</h1>
+<p align="center">
+<img  src="https://i.ibb.co/gdFqYrv/github-profile-readme-banner-1.png" alt="profile_pic"/>
+</p>
 <h3 align="center">A passionate full-stack and React Native developer from India.</h3>
 
 - 🔭 I’m currently working on [Ask Wishdom - A Social Media Platform](https://ask-wishdom-client.netlify.app/)
