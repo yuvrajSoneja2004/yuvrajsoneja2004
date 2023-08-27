@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👋 I'm Yuvraj Soneja</h1>
+<h1>Hi there!👋 I'm Yuvraj Soneja</h1>
 <p align="center">
 <img  src="https://i.ibb.co/gdFqYrv/github-profile-readme-banner-1.png" alt="profile_pic"/>
 </p>
