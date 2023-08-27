@@ -16,7 +16,9 @@
 
   <h1 align="center">About Me</h1>
   <img src="https://media.tenor.com/yWVIOwocbVsAAAAC/typing-occultic-nine.gif" alt="bootstrap" width="400" height="200" align="center"/>
-I have always been intrigued by [Something Relevant to Your Interest]. With a solid educational background in [Your Education], I have honed my skills in [Your Skills] over the years. My journey in the world of coding began when [Your Coding Journey Story].
+I am currently pursuing my BCA and am in my second year of studies. My passion for computers and technology has been a driving force throughout my academic journey. The inherent freedom that technology affords individuals to innovate and create has always fascinated me. Commencing at the age of 14, I embarked on several computer courses that solidified my aspiration to forge a career in this dynamic domain.
+
+My proficiency encompasses a range of programming languages and tools, including but not limited to JavaScript, React.js, Node.js, Express.js, MongoDB, and React Native. This extensive repertoire empowers me to develop comprehensive full-stack web and mobile applications. I am deeply enthusiastic about embracing novel technologies, consistently seeking opportunities to expand my skill set.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
