@@ -1,4 +1,6 @@
-<img  src="https://i.ibb.co/rsR0RgC/Whats-App-Image-2023-08-27-at-3-45-04-PM-modified.png" alt="profile_pic"/>
+<p align="center">
+<img  src="https://i.ibb.co/rsR0RgC/Whats-App-Image-2023-08-27-at-3-45-04-PM-modified.png" alt="profile_pic" width="150" height="150"/>
+</p>
 <h1 align="center">Hi there!👋 I'm Yuvraj Soneja</h1>
 <h3 align="center">A passionate full-stack and React Native developer from India.</h3>
 
