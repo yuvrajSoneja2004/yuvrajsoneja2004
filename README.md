@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there!👋 I'm Yuvraj Soneja</h1>
-<h3 align="center">A passionate full-stack developer and React Native developer from India.</h3>
+<h3 align="center">A passionate full-stack and React Native developer from India.</h3>
 
 - 🔭 I’m currently working on [Ask Wishdom - A Social Media Platform](https://ask-wishdom-client.netlify.app/)
 
