@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I always crave learning new technology 😃**
 
   <h1 align="center">About Me</h1>
-  ![Background Image](https://media.tenor.com/yWVIOwocbVsAAAAC/typing-occultic-nine.gif)
+  ![img](https://media.tenor.com/yWVIOwocbVsAAAAC/typing-occultic-nine.gif)
 
 I have always been intrigued by [Something Relevant to Your Interest]. With a solid educational background in [Your Education], I have honed my skills in [Your Skills] over the years. My journey in the world of coding began when [Your Coding Journey Story].
 
