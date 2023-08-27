@@ -14,14 +14,20 @@
 
 - ⚡ Fun fact **I always crave learning new technology 😃**
 
-  <h1 align="center">About Me</h1>
+  <h1 align="center">About Me 🤔</h1>
  <p align="center">
     <img src="https://media.tenor.com/yWVIOwocbVsAAAAC/typing-occultic-nine.gif" alt="bootstrap" width="400" height="200" align="center"/>
  </p>
 I am currently pursuing my BCA and am in my second year of studies. My passion for computers and technology has been a driving force throughout my academic journey. The inherent freedom that technology affords individuals to innovate and create has always fascinated me. Commencing at the age of 14, I embarked on several computer courses that solidified my aspiration to forge a career in this dynamic domain.
 
 My proficiency encompasses a range of programming languages and tools, including but not limited to JavaScript, React.js, Node.js, Express.js, MongoDB, and React Native. This extensive repertoire empowers me to develop comprehensive full-stack web and mobile applications. I am deeply enthusiastic about embracing novel technologies, consistently seeking opportunities to expand my skill set.
-
+<h1 align="center">My Hobbies 😁</h1>
+<p align="center">
+    <img src="https://media.tenor.com/dWctGVQUm1sAAAAd/hajime-no-ippo-ippo.gif" alt="bootstrap" width="400" height="200" align="center"/>
+ </p>
+<p align="center">
+"In addition to my passion for software development, I find great joy in maintaining a healthy and active lifestyle. 💻🏋️‍♂️ Engaging in regular workout routines is not just a hobby for me, but a way to ensure both my physical and mental well-being. 💪🧘‍♂️ I believe that a strong body complements a sharp mind, allowing me to approach coding challenges with renewed focus and energy. Beyond coding and exercise, I have a penchant for immersing myself in tech-related content during my leisure time. 📚🎮 Whether it's devouring the latest articles on emerging technologies, watching in-depth tutorial videos, or exploring discussions on online forums, I relish the opportunity to stay up-to-date with the rapidly evolving world of technology. 🚀🌐 This dual enthusiasm for software development and tech exploration truly defines my dynamic approach to both work and relaxation. 🤓🏃‍♂️"
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yuvrajdev7524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yuvrajdev7524" height="30" width="40" /></a>
