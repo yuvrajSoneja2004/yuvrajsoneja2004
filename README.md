@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="https://i.ibb.co/rsR0RgC/Whats-App-Image-2023-08-27-at-3-45-04-PM-modified.png" alt="profile_pic" width="150" height="150"/>
+<img  src="https://i.ibb.co/rsR0RgC/Whats-App-Image-2023-08-27-at-3-45-04-PM-modified.png" alt="profile_pic" width="175" height="175"/>
 </p>
 <h1 align="center">Hi there!👋 I'm Yuvraj Soneja</h1>
 <h3 align="center">A passionate full-stack and React Native developer from India.</h3>
@@ -23,7 +23,7 @@
  <p align="center">
     <img src="https://media.tenor.com/yWVIOwocbVsAAAAC/typing-occultic-nine.gif" alt="bootstrap" width="400" height="250" align="center"/>
  </p>
-I am currently pursuing my BCA and am in my second year of studies. My passion for computers and technology has been a driving force throughout my academic journey. The inherent freedom that technology affords individuals to innovate and create has always fascinated me. Commencing at the age of 14, I embarked on several computer courses that solidified my aspiration to forge a career in this dynamic domain.
+I am currently pursuing BCA and am in my second year of studies. My passion for computers and technology has been a driving force throughout my academic journey. The inherent freedom that technology affords individuals to innovate and create has always fascinated me. Commencing at the age of 14, I embarked on several computer courses that solidified my aspiration to forge a career in this dynamic domain.
 
 My proficiency encompasses a range of programming languages and tools, including but not limited to JavaScript, React.js, Node.js, Express.js, MongoDB, and React Native. This extensive repertoire empowers me to develop comprehensive full-stack web and mobile applications. I am deeply enthusiastic about embracing novel technologies, consistently seeking opportunities to expand my skill set.
 <h1 align="center">My Hobbies 😁</h1>
