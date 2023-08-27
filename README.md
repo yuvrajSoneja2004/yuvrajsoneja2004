@@ -14,6 +14,11 @@
 
 - ⚡ Fun fact **I always crave learning new technology 😃**
 
+  <h1 align="center">About Me</h1>
+  ![Background Image](https://media.tenor.com/yWVIOwocbVsAAAAC/typing-occultic-nine.gif)
+
+I have always been intrigued by [Something Relevant to Your Interest]. With a solid educational background in [Your Education], I have honed my skills in [Your Skills] over the years. My journey in the world of coding began when [Your Coding Journey Story].
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yuvrajdev7524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yuvrajdev7524" height="30" width="40" /></a>
