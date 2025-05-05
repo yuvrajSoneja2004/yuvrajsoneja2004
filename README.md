@@ -2,15 +2,15 @@
 <p align="center">
 <img  src="https://i.ibb.co/gdFqYrv/github-profile-readme-banner-1.png" alt="profile_pic"/>
 </p>
-<h3 align="center">A passionate full-stack and React Native developer from India.</h3>
+<h3 align="center">I help businesses & startups turn ideas into powerful web & mobile apps.</h3>
 
-- 🔭 I’m currently working on [Ask Wishdom - A Social Media Platform](https://ask-wishdom-client.netlify.app/)
+- 🔭 I’m currently working on [JagStream – Video Streaming App](https://ask-wishdom-client.netlify.app/)
 
-- 🌱 I’m currently learning **Strapi , Jest**
+- 🌱 I’m currently learning **Microservices , Mobile Development , Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://yuvrajportfolio.netlify.app/](https://yuvrajportfolio.netlify.app/)
 
-- 💬 You can Ask me about **MERN Stack , React Native and other tools such as Git , Netlify etc.**
+- 💬 You can Ask me about **MERN Stack , React Native and other tools such as Kubernetes , System Development etc.**
 
 - 📫You can contact me via **yuvrajdev20004@gmail.com**
 
@@ -23,9 +23,7 @@
  <p align="center">
     <img src="https://media.tenor.com/yWVIOwocbVsAAAAC/typing-occultic-nine.gif" alt="bootstrap" width="400" height="250" align="center"/>
  </p>
-I am currently pursuing BCA and am in my second year of studies. My passion for computers and technology has been a driving force throughout my academic journey. The inherent freedom that technology affords individuals to innovate and create has always fascinated me. Commencing at the age of 14, I embarked on several computer courses that solidified my aspiration to forge a career in this dynamic domain.
-
-My proficiency encompasses a range of programming languages and tools, including but not limited to JavaScript, React.js, Node.js, Express.js, MongoDB, and React Native. This extensive repertoire empowers me to develop comprehensive full-stack web and mobile applications. I am deeply enthusiastic about embracing novel technologies, consistently seeking opportunities to expand my skill set.
+I'm a full-stack developer who started young and grew fast — from building front-end websites at 14 to architecting scalable systems with Docker, Kubernetes, Redis, Kafka, and microservices today. One of my biggest achievements is building a full-stack YouTube-like video platform from scratch. I implemented HLS video streaming with Node.js and FFmpeg, cutting video load times by 40%. I also integrated Server-Sent Events (SSE) for real-time upload progress tracking, which significantly improved user experience. To boost engagement, I developed an “Up Next” recommendation algorithm that increased average watch time by 15%, and built a custom video player with adaptive quality streaming based on network conditions. I focus on building fast, reliable, and user-centered systems — no fluff, just impact.
 <h1 align="center">My Hobbies 😁</h1>
 <p align="center">
     <img src="https://media.tenor.com/dWctGVQUm1sAAAAd/hajime-no-ippo-ippo.gif" alt="bootstrap" width="400" height="250" align="center"/>
