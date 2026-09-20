@@ -17,7 +17,7 @@
 
 ## The numbers
 
-| | |
+| Result | Where it came from |
 |:---|:---|
 | **2 days → 20 minutes** | Time to produce a Software Requirements Spec, before vs. after the AI agent I built ([Teclarity](https://teclarity.com/)) |
 | **1 product → 1 company** | Teclarity was built by me alone and spun out into its own standalone company |
@@ -47,9 +47,9 @@ Most developers give you code. I give you a shipped product and a quiet inbox.
 
 Software agencies burn a dedicated person for days on requirements docs and project estimates before a single line of code. I built an AI agent that takes a natural-language brief and produces the full SRS, market estimate, and planning artifacts.
 
-**What I owned:** everything. Product architecture, agentic pipeline (LangChain + OpenAI, multi-step reasoning), Node.js backend, React frontend, AWS infrastructure (Lambda, SQS, DocumentDB for async generation at scale), deployment.
-**Outcome:** the product was spun out of the parent company into its own standalone company. Public launch is imminent.
-**Read the reasoning:** [AI SaaS architecture decision record](https://github.com/yuvrajSoneja2004/AI_SAAS_SYSTEM_DESIGN) — why SQS, why a separate AI worker, why a read replica, and what each decision costs.
+- **What I owned:** everything. Product architecture, agentic pipeline (LangChain + OpenAI, multi-step reasoning), Node.js backend, React frontend, AWS infrastructure (Lambda, SQS, DocumentDB for async generation at scale), deployment.
+- **Outcome:** the product was spun out of the parent company into its own standalone company. Public launch is imminent.
+- **Read the reasoning:** [AI SaaS architecture decision record](https://github.com/yuvrajSoneja2004/AI_SAAS_SYSTEM_DESIGN) — why SQS, why a separate AI worker, why a read replica, and what each decision costs.
 
 ---
 
@@ -57,9 +57,9 @@ Software agencies burn a dedicated person for days on requirements docs and proj
 
 Indian businesses juggle GST (GSTR-1, 1A, 3B, 9, 9C), TDS, Income Tax, bank statements, and an investment portfolio across a dozen tools. Foldy unifies them in one application with an encrypted document vault.
 
-**What I built:** integrations with GSTN, the Income Tax Department, NSDL, and banking partners for real-time filing status and statement aggregation. Bank-grade backend on AWS with KMS-managed AES-256 encryption, TLS, and IAM-isolated services for PII. Lambda + SQS for async polling.
-**Scale:** designed and built to handle 5,000 concurrent users; currently serving early customers.
-**Read the reasoning:** [Fintech PII compliance architecture](https://github.com/yuvrajSoneja2004/Fintech_App_System_Design) — 13 zones, from WAF to disaster recovery, with a rejected-alternatives table for every major decision.
+- **What I built:** integrations with GSTN, the Income Tax Department, NSDL, and banking partners for real-time filing status and statement aggregation. Bank-grade backend on AWS with KMS-managed AES-256 encryption, TLS, and IAM-isolated services for PII. Lambda + SQS for async polling.
+- **Scale:** designed and built to handle 5,000 concurrent users; currently serving early customers.
+- **Read the reasoning:** [Fintech PII compliance architecture](https://github.com/yuvrajSoneja2004/Fintech_App_System_Design) — 13 zones, from WAF to disaster recovery, with a rejected-alternatives table for every major decision.
 
 ---
 
@@ -67,8 +67,8 @@ Indian businesses juggle GST (GSTR-1, 1A, 3B, 9, 9C), TDS, Income Tax, bank stat
 
 A video-on-demand product needed to transcode uploads into adaptive-bitrate HLS (1080p down to 360p) and serve thousands of viewers at once.
 
-**What I built:** FFmpeg transcoding and chunking pipeline, BullMQ async job processing for reliability under peak load, Redis caching that **cut database load by 60%**, auto-scaling EC2 + S3 + CloudFront that **reduced latency by 35%**, zero-downtime deploys.
-**Read the reasoning:** [Jagstream backend architecture](https://github.com/yuvrajSoneja2004/Jagstream-Backend) — why FFmpeg on spot instances over MediaConvert, why SQS over Kafka, why Postgres over NoSQL for video metadata.
+- **What I built:** FFmpeg transcoding and chunking pipeline, BullMQ async job processing for reliability under peak load, Redis caching that **cut database load by 60%**, auto-scaling EC2 + S3 + CloudFront that **reduced latency by 35%**, zero-downtime deploys.
+- **Read the reasoning:** [Jagstream backend architecture](https://github.com/yuvrajSoneja2004/Jagstream-Backend) — why FFmpeg on spot instances over MediaConvert, why SQS over Kafka, why Postgres over NoSQL for video metadata.
 
 ---
 
@@ -98,11 +98,13 @@ I write down *why* a system is built the way it is, including what was rejected.
 
 ## Stack
 
-**Cloud & infra:** AWS (EC2, S3, CloudFront, Lambda, SQS, DocumentDB, KMS) · Azure (Blob, CDN, VM) · Docker · CI/CD · FFmpeg
-**Backend:** Node.js · Express · Redis · BullMQ · WebSockets · REST · system design
-**AI:** OpenAI API · LangChain · agentic workflows · RAG
-**Frontend:** React · Next.js · TypeScript · Redux Toolkit · Tailwind
-**Data:** MongoDB · PostgreSQL · MySQL
+| | |
+|:---|:---|
+| **Cloud & infra** | AWS (EC2, S3, CloudFront, Lambda, SQS, DocumentDB, KMS) · Azure (Blob, CDN, VM) · Docker · CI/CD · FFmpeg |
+| **Backend** | Node.js · Express · Redis · BullMQ · WebSockets · REST · system design |
+| **AI** | OpenAI API · LangChain · agentic workflows · RAG |
+| **Frontend** | React · Next.js · TypeScript · Redux Toolkit · Tailwind |
+| **Data** | MongoDB · PostgreSQL · MySQL |
 
 <br/>
 
