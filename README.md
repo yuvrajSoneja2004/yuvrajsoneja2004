@@ -98,7 +98,7 @@ I write down *why* a system is built the way it is, including what was rejected.
 
 ## Stack
 
-| | |
+| Layer | Tools |
 |:---|:---|
 | **Cloud & infra** | AWS (EC2, S3, CloudFront, Lambda, SQS, DocumentDB, KMS) · Azure (Blob, CDN, VM) · Docker · CI/CD · FFmpeg |
 | **Backend** | Node.js · Express · Redis · BullMQ · WebSockets · REST · system design |
